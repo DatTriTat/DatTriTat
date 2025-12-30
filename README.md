@@ -139,7 +139,7 @@
 AI Agents • Distributed Systems • Real-Time Apps • Cloud-Native Architecture • Performance + Caching
 
 📘 Currently Exploring:  
-RAG pipelines • Agent orchestration • Kubernetes ops • System design & latency engineering
+RAG pipelines • Agent orchestration • Kubernetes operations • Distributed system design
 
 ---
 
