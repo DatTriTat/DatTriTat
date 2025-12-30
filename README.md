@@ -85,6 +85,8 @@
 ---
 
 ### 📈 Market Agent — Stock Q&A Dashboard (LLM-grounded)
+📂 **Repo:** [https://github.com/DatTriTat/Market-Agent](https://github.com/DatTriTat/Market-Agent)
+
 
 > **React | FastAPI | Redis | MongoDB | OpenAI | Docker | AWS | EOD OHLCV data**
 
