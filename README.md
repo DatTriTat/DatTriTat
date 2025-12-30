@@ -164,26 +164,10 @@ RAG pipelines • Agent orchestration • Kubernetes ops • System design & lat
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DatTriTat&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 Metrics Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DatTriTat/DatTriTat/main/metrics.svg" alt="metrics dashboard" />
-</p>
-
----
-
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DatTriTat/DatTriTat/main/profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph" />
+  <img src="https://raw.githubusercontent.com/DatTriTat/DatTriTat/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" />
 </p>
 
 ---
